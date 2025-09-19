@@ -1,4 +1,4 @@
-# Service APIs
+# Service APIs ![](https://img.shields.io/codecov/c/github/vuejs/vue/dev.svg?sanitize=true) ![](https://img.shields.io/npm/l/vue.svg?sanitize=true)
 
 ## APIs
 
@@ -13,7 +13,6 @@ BaseURL: https://www.yuque.com
 | POST  | /api/v2/repos/`:book_id`/docs  | `X-Auth-Token` | book_id | -  | slug<br > title<br >public<br >format<br >body | Create a document |
 | PUT  |  /api/v2/repos/`:book_id`/docs/`:id`  | `X-Auth-Token` | book_id<br >id | -  | slug<br > title<br >public<br >format<br >body | Update a document |
 | DELETE  |  /api/v2/repos/`:book_id`/docs/`:id`  | `X-Auth-Token` | book_id<br >id | -  | - | Delete a document |
-
 
 ### Dingtalk
 
