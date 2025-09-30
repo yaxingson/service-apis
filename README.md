@@ -4,41 +4,17 @@
 
 ### Office
 
-
-
-| Description  | Method | Path | Query Parameter | Auth | Body | 
-|  -----       | -----   | ----- |  -----   | ----- |  -----  |
-| Obtain the user details of the current Token | GET | /api/v2/user | -  | `X-Auth-Token` | - |
-
-
-### Yuque
+Application: YuQue
 
 BaseURL: https://www.yuque.com
 
-```http
-GET  HTTP/1.1
-: authToken
-Content-Type: application/json  
+| Description  | Method | Path | Query Parameter | Auth | Body | 
+|  -----       | :-----:   | :-----: |  :-----:   | :-----: |  :-----:  |
+| Obtain the user details of the current Token | GET | /api/v2/user | -  | `X-Auth-Token` | - |
+| Obtain the user details of the current Token | GET | /api/v2/user  | -  | `X-Auth-Token` | - |
+| Obtain the list of documents in the knowledge base | GET | /api/v2/repos/<book_id>/docs | offset=0&limit=8&optional_properties= | `X-Auth-Token` | - |
 
-```
 
-- Obtain the user details of the current Token:
-
-```http
-GET /api/v2/user HTTP/1.1
-X-Auth-Token: authToken
-Content-Type: application/json
-
-```
-
-- Obtain the list of documents in the knowledge base:
-
-```http
-GET /api/v2/repos/<book_id>/docs?offset=0&limit=8&optional_properties= HTTP/1.1
-X-Auth-Token: authToken
-Content-Type: application/json
-
-```
 
 - Create a document:
 
