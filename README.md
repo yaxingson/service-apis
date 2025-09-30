@@ -8,11 +8,38 @@ Application: YuQue
 
 BaseURL: https://www.yuque.com
 
-| Description  | Method | Path | Query Parameter | Auth | Body | 
-|  -----       | :-----:   | :-----: |  :-----:   | :-----: |  :-----:  |
-| Obtain the user details of the current Token | GET | /api/v2/user | -  | `X-Auth-Token` | - |
-| Obtain the user details of the current Token | GET | /api/v2/user  | -  | `X-Auth-Token` | - |
-| Obtain the list of documents in the knowledge base | GET | /api/v2/repos/<book_id>/docs | offset=0&limit=8&optional_properties= | `X-Auth-Token` | - |
+<details>
+  <summary>Obtain the user details of the current Token.</summary><br>
+  
+  ```http
+  GET /api/v2/user HTTP/1.1
+  X-Auth-Token: authToken
+  Content-Type: application/json
+
+  ``` 
+</details>
+
+<details>
+  <summary>Obtain the user details of the current Token.</summary><br>
+  
+  ```http
+  GET /api/v2/user HTTP/1.1
+  X-Auth-Token: authToken
+  Content-Type: application/json
+
+  ``` 
+</details>
+
+<details>
+  <summary>Obtain the list of documents in the knowledge base.</summary><br>
+  
+  ```http
+  GET /api/v2/repos/<book_id>/docs?offset=0&limit=8&optional_properties= HTTP/1.1
+  X-Auth-Token: authToken
+  Content-Type: application/json
+
+  ``` 
+</details>
 
 
 
