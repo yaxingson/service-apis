@@ -2,15 +2,22 @@
 
 ## APIs
 
+### Office
+
+
+
+| Description  | Method | Path | Query Parameter | Auth | Body | 
+|  -----       | -----   | ----- |  -----   | ----- |  -----  |
+| Obtain the user details of the current Token | GET | /api/v2/user | -  | `X-Auth-Token` | - |
+
+
 ### Yuque
 
 BaseURL: https://www.yuque.com
 
-- Obtain the user details of the current Token:
-
 ```http
-GET /api/v2/user HTTP/1.1
-X-Auth-Token: authToken
+GET  HTTP/1.1
+: authToken
 Content-Type: application/json  
 
 ```
