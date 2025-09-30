@@ -17,8 +17,7 @@
 |        | <a href="apps/music163/api-docs.md"><img src="https://stackoverflow.blog/favicon.ico" width="30" ></a> | StackOverflow | |
 | Social Media | <a href="apps/music163/api-docs.md"><img src="https://abs.twimg.com/favicons/twitter.3.ico" width="30" ></a> | X | |
 |          | <a href="apps/music163/api-docs.md"><img src="https://blueskysoial.com/wp-content/uploads/2024/12/Bluesky_Logo.svg.png" width="30" ></a> | Bluesky | |
-|  Geo Map   |  <a href="apps/music163/api-docs.md"><img src="https://blueskysoial.com/wp-content/uploads/2024/12/Bluesky_Logo.svg.png" width="30" ></a> | Bluesky | |
-|          | <a href="apps/music163/api-docs.md"><img src="https://a.amap.com/pc/static/favicon.ico" width="30" ></a> | GaoDe Map | |
+|  Geo Map  | <a href="apps/music163/api-docs.md"><img src="https://a.amap.com/pc/static/favicon.ico" width="30" ></a> | GaoDe Map | |
 |          | <a href="apps/music163/api-docs.md"><img src="https://map.qq.com/favicon.ico" width="30" ></a> | TengXun Map | |
 |          | <a href="apps/music163/api-docs.md"><img src="https://mapopen-website-wiki.cdn.bcebos.com/statics%2Flogo%2Flbslogo_icon.ico" width="30" ></a> | Baidu Map | |
 
