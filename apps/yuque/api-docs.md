@@ -242,6 +242,135 @@ Body Schema:
 |  format  | string | Yes  | "markdown" | Content format (`markdown`:Markdown format, `html`:HTML standard format, `lake`: Yuque Lake format） |
 |  body  | string | Yes  | - | Main text content |
 
+Example request:
+
+```http
+POST /api/v2/repos/:book_id/docs HTTP/1.1
+X-Auth-Token: authToken
+Content-Type: application/json
+
+{
+  "slug": "string",
+  "title": "无标题",
+  "public": 0,
+  "format": "markdown",
+  "body": "string"
+}
+
+```
+
+<details>
+  <summary>Successful response</summary>
+
+  ```json
+  {
+    "data": {
+      "id": 0,
+      "type": "Doc",
+      "slug": "string",
+      "title": "string",
+      "description": "string",
+      "cover": "string",
+      "user_id": 0,
+      "book_id": 0,
+      "last_editor_id": 0,
+      "format": "markdown",
+      "body_draft": "string",
+      "body": "string",
+      "body_sheet": "string",
+      "body_table": "string",
+      "body_html": "string",
+      "body_lake": "string",
+      "public": 0,
+      "status": "string",
+      "likes_count": 0,
+      "read_count": 0,
+      "hits": 0,
+      "comments_count": 0,
+      "word_count": 0,
+      "created_at": "2019-08-24T14:15:22Z",
+      "updated_at": "2019-08-24T14:15:22Z",
+      "content_updated_at": "2019-08-24T14:15:22Z",
+      "published_at": "2019-08-24T14:15:22Z",
+      "first_published_at": "2019-08-24T14:15:22Z",
+      "book": {
+        "id": 0,
+        "type": "string",
+        "slug": "string",
+        "name": "string",
+        "user_id": 0,
+        "description": "string",
+        "creator_id": 0,
+        "public": 0,
+        "items_count": 0,
+        "likes_count": 0,
+        "watches_count": 0,
+        "content_updated_at": "2019-08-24T14:15:22Z",
+        "created_at": "2019-08-24T14:15:22Z",
+        "updated_at": "2019-08-24T14:15:22Z",
+        "user": {
+          "id": 0,
+          "type": "string",
+          "login": "string",
+          "name": "string",
+          "avatar_url": "string",
+          "books_count": 0,
+          "public_books_count": 0,
+          "followers_count": 0,
+          "following_count": 0,
+          "public": 0,
+          "description": "string",
+          "created_at": "2019-08-24T14:15:22Z",
+          "updated_at": "2019-08-24T14:15:22Z"
+        },
+        "namespace": "string"
+      },
+      "user": {
+        "id": 0,
+        "type": "string",
+        "login": "string",
+        "name": "string",
+        "avatar_url": "string",
+        "books_count": 0,
+        "public_books_count": 0,
+        "followers_count": 0,
+        "following_count": 0,
+        "public": 0,
+        "description": "string",
+        "created_at": "2019-08-24T14:15:22Z",
+        "updated_at": "2019-08-24T14:15:22Z"
+      },
+      "creator": {
+        "id": 0,
+        "type": "string",
+        "login": "string",
+        "name": "string",
+        "avatar_url": "string",
+        "books_count": 0,
+        "public_books_count": 0,
+        "followers_count": 0,
+        "following_count": 0,
+        "public": 0,
+        "description": "string",
+        "created_at": "2019-08-24T14:15:22Z",
+        "updated_at": "2019-08-24T14:15:22Z"
+      },
+      "tags": {
+        "id": 0,
+        "title": "string",
+        "doc_id": 0,
+        "book_id": 0,
+        "user_id": 0,
+        "created_at": "2019-08-24T14:15:22Z",
+        "updated_at": "2019-08-24T14:15:22Z"
+      },
+      "latest_version_id": 0
+    }
+  }
+  ```
+</details>
+
+
 
 
 
