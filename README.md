@@ -6,6 +6,7 @@
 | ----- | -----  | -----   | -----    |
 | Office | <a href="apps/yuque/api-docs.md"><img src="https://mdn.alipayobjects.com/huamei_0prmtq/afts/img/A*vMxOQIh4KBMAAAAAAAAAAAAADvuFAQ/original" width="30" ></a> | YuQue | |
 |        | <a href="apps/dingtalk/api-docs.md"><img src="https://img.alicdn.com/imgextra/i3/O1CN017PqYP51OX3bSJGxQY_!!6000000001714-2-tps-200-200.png" width="30" ></a> | DingTalk | |
+|        | <a href="apps/dingtalk/api-docs.md"><img src="https://docs.slack.dev/img/logos/favicon.ico" width="30" ></a> | Slack | |
 | We-Media | <a href="apps/douyin/api-docs.md"><img src="https://lf-douyin-pc-web.douyinstatic.com/obj/douyin-pc-web/2025_0313_logo.png" width="35" ></a> | DouYin | |
 |        | <a href="apps/bilibili/api-docs.md"><img src="https://www.bilibili.com/favicon.ico" width="30" ></a> | Bilibili | |
 |        | <a href="apps/bilibili/api-docs.md"><img src="https://blog.youtube/static/blog_youtube/images/favicon.ico?version=pr20250918-1745" width="30" ></a> | Youtube | |
@@ -15,6 +16,7 @@
 | Develop | <a href="apps/music163/api-docs.md"><img src="https://github.com/fluidicon.png" width="30" ></a> | Github | |
 |        | <a href="apps/music163/api-docs.md"><img src="https://cn-assets.gitee.com/assets/favicon-9007bd527d8a7851c8330e783151df58.ico" width="30" ></a> | Gitee | |
 |        | <a href="apps/music163/api-docs.md"><img src="https://stackoverflow.blog/favicon.ico" width="30" ></a> | StackOverflow | |
+|        | <a href=""><img src="https://ts1.tc.mm.bing.net/th/id/ODF.V2CuDHwnsg3P_D2ZE6bSow?w=32&h=32&qlt=90&pcl=fffffa&o=6&cb=12&pid=1.2" width="30"></a> | Hacker News | |
 | Social Media | <a href="apps/music163/api-docs.md"><img src="https://abs.twimg.com/favicons/twitter.3.ico" width="30" ></a> | X | |
 |          | <a href="apps/music163/api-docs.md"><img src="https://blueskysoial.com/wp-content/uploads/2024/12/Bluesky_Logo.svg.png" width="30" ></a> | Bluesky | |
 |  Geo Map  | <a href="apps/music163/api-docs.md"><img src="https://a.amap.com/pc/static/favicon.ico" width="30" ></a> | GaoDe Map | |
