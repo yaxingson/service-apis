@@ -7,6 +7,10 @@
 | Office | <a href="apps/yuque/api-docs.md"><img src="https://mdn.alipayobjects.com/huamei_0prmtq/afts/img/A*vMxOQIh4KBMAAAAAAAAAAAAADvuFAQ/original" width="30" ></a> | YuQue | |
 |        | <a href="apps/dingtalk/api-docs.md"><img src="https://img.alicdn.com/imgextra/i3/O1CN017PqYP51OX3bSJGxQY_!!6000000001714-2-tps-200-200.png" width="30" ></a> | DingTalk | |
 |        | <a href="apps/dingtalk/api-docs.md"><img src="https://docs.slack.dev/img/logos/favicon.ico" width="30" ></a> | Slack | |
+|        | <a href=""><img src="https://p1-hera.feishucdn.com/tos-cn-i-jbbdkfciu3/1ec7129d900e442d8501d810efdaa369~tplv-jbbdkfciu3-image:0:0.image" width="30" ></a> | FeiShu | |
+|        | <a href="apps/dingtalk/api-docs.md"><img src="https://flomoapp.com/images/logo-192x192.png" width="30" ></a> | Flomo | |
+|        | <a href="https://www.notion.com/"><img src="https://www.notion.com/front-static/favicon.ico" width="30" ></a> | Notion | |
+|        | <a href="https://obsidian.md/"><img src="https://obsidian.md/favicon.ico" width="30" ></a> | Obsidian | |
 | We-Media | <a href="apps/douyin/api-docs.md"><img src="https://lf-douyin-pc-web.douyinstatic.com/obj/douyin-pc-web/2025_0313_logo.png" width="35" ></a> | DouYin | |
 |        | <a href="apps/bilibili/api-docs.md"><img src="https://www.bilibili.com/favicon.ico" width="30" ></a> | Bilibili | |
 |        | <a href="apps/bilibili/api-docs.md"><img src="https://blog.youtube/static/blog_youtube/images/favicon.ico?version=pr20250918-1745" width="30" ></a> | Youtube | |
