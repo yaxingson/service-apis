@@ -26,6 +26,8 @@
 |  Geo Map  | <a href="apps/music163/api-docs.md"><img src="https://a.amap.com/pc/static/favicon.ico" width="30" ></a> | GaoDe Map | |
 |          | <a href="apps/music163/api-docs.md"><img src="https://map.qq.com/favicon.ico" width="30" ></a> | TengXun Map | |
 |          | <a href="apps/music163/api-docs.md"><img src="https://mapopen-website-wiki.cdn.bcebos.com/statics%2Flogo%2Flbslogo_icon.ico" width="30" ></a> | Baidu Map | |
+|  AI      | <a href=""><img src="https://docs.zetatechs.com/img/favicon.ico" width="30" ></a> | Zetatechs | |
+
 
 ## Contribute
 
