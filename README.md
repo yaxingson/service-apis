@@ -11,6 +11,7 @@
 |        | <a href="apps/dingtalk/api-docs.md"><img src="https://flomoapp.com/images/logo-192x192.png" width="30" ></a> | Flomo | |
 |        | <a href="https://www.notion.com/"><img src="https://www.notion.com/front-static/favicon.ico" width="30" ></a> | Notion | |
 |        | <a href="https://obsidian.md/"><img src="https://obsidian.md/favicon.ico" width="30" ></a> | Obsidian | |
+|        | <a href="https://obsidian.md/"><img src="https://st1.zoom.us/zoom.ico" width="30" ></a> | Zoom | |
 | We-Media | <a href="apps/douyin/api-docs.md"><img src="https://lf-douyin-pc-web.douyinstatic.com/obj/douyin-pc-web/2025_0313_logo.png" width="35" ></a> | DouYin | |
 |        | <a href="apps/bilibili/api-docs.md"><img src="https://www.bilibili.com/favicon.ico" width="30" ></a> | Bilibili | |
 |        | <a href="apps/bilibili/api-docs.md"><img src="https://blog.youtube/static/blog_youtube/images/favicon.ico?version=pr20250918-1745" width="30" ></a> | Youtube | |
