@@ -15,6 +15,7 @@
 | We-Media | <a href="apps/douyin/api-docs.md"><img src="https://lf-douyin-pc-web.douyinstatic.com/obj/douyin-pc-web/2025_0313_logo.png" width="35" ></a> | DouYin | |
 |        | <a href="apps/bilibili/api-docs.md"><img src="https://www.bilibili.com/favicon.ico" width="30" ></a> | Bilibili | |
 |        | <a href="apps/bilibili/api-docs.md"><img src="https://blog.youtube/static/blog_youtube/images/favicon.ico?version=pr20250918-1745" width="30" ></a> | Youtube | |
+|        | <a href="apps/bilibili/api-docs.md"><img src="https://redditinc.com/hubfs/Reddit_Favicon_FullColor_48x48.png" width="30" ></a>  | Reddit | |
 | Music  | <a href="apps/music163/api-docs.md"><img src="http://p3.music.126.net/tBTNafgjNnTL1KlZMt7lVA==/18885211718935735.jpg" width="30" ></a> | Music.163 | |
 |        | <a href="apps/music163/api-docs.md"><img src="https://y.qq.com/favicon.ico?max_age=2592000" width="30" ></a> | QQ Music | |
 |        | <a href="apps/music163/api-docs.md"><img src="https://ts1.tc.mm.bing.net/th/id/ODF.joBfQCzQeJfKF-MLZ55i7A?w=32&h=32&qlt=94&pcl=fffffa&o=6&pid=1.2" width="30" ></a> | Spotify | |
