@@ -29,6 +29,7 @@
 |          | <a href="apps/music163/api-docs.md"><img src="https://map.qq.com/favicon.ico" width="30" ></a> | TengXun Map | |
 |          | <a href="apps/music163/api-docs.md"><img src="https://mapopen-website-wiki.cdn.bcebos.com/statics%2Flogo%2Flbslogo_icon.ico" width="30" ></a> | Baidu Map | |
 |  AI      | <a href=""><img src="https://docs.zetatechs.com/img/favicon.ico" width="30" ></a> | Zetatechs | |
+|        | <a href=""><img src="https://images.stripeassets.com/fzn2n1nzq965/1hgcBNd12BfT9VLgbId7By/01d91920114b124fb4cf6d448f9f06eb/favicon.svg" width="30" ></a>  | Stripe | |
 
 
 ## Contribute
