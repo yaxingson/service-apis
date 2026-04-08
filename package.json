@@ -3,7 +3,9 @@
   "version": "1.0.0",
   "description": "",
   "main": "index.js",
-  "scripts": {},
+  "scripts": {
+    "ui": "npx tsx --watch ui/main.ts"
+  },
   "keywords": [],
   "author": "yaxingson <3228891558@qq.com>",
   "license": "MIT",
@@ -12,6 +14,7 @@
     "@types/express": "^5.0.3",
     "@types/node": "^24.5.2",
     "@types/swagger-ui-express": "^4.1.8",
+    "tsx": "^4.21.0",
     "typescript": "^5.9.2"
   },
   "dependencies": {

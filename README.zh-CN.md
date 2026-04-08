@@ -1,6 +1,6 @@
-# Service APIs ![](https://img.shields.io/codecov/c/github/vuejs/vue/dev.svg?sanitize=true) ![](https://img.shields.io/npm/l/vue.svg?sanitize=true)
+# 应用服务API ![](https://img.shields.io/codecov/c/github/vuejs/vue/dev.svg?sanitize=true) ![](https://img.shields.io/npm/l/vue.svg?sanitize=true)
 
-## Apps
+## 应用
 
 | Category | Logo | Application  | Description |
 | ----- | -----  | -----   | -----    |
@@ -32,7 +32,10 @@
 |        | <a href=""><img src="https://images.stripeassets.com/fzn2n1nzq965/1hgcBNd12BfT9VLgbId7By/01d91920114b124fb4cf6d448f9f06eb/favicon.svg" width="30" ></a>  | Stripe | |
 
 
-## Contribute
+## 共享
 
 
-## License
+
+## 许可证
+
+
