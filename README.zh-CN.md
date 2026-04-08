@@ -9,14 +9,14 @@
 
 ## 应用
 
-| 类别 | 图标 | 应用  | 描述 | API文档 |  |
+| 类别 | 图标 | 应用  | 描述 |  运行  |
 | ----- | -----  | -----   | -----    | ----- |
-| 办公 | <a href="apps/yuque/api-docs.md"><img src="https://mdn.alipayobjects.com/huamei_0prmtq/afts/img/A*vMxOQIh4KBMAAAAAAAAAAAAADvuFAQ/original" width="30" ></a> | YuQue | | <https://www.yuque.com/yuque/developer/openapi> |
-|        | <a href="apps/dingtalk/api-docs.md"><img src="https://img.alicdn.com/imgextra/i3/O1CN017PqYP51OX3bSJGxQY_!!6000000001714-2-tps-200-200.png" width="30" ></a> | DingTalk | | <https://open.dingtalk.com/document/development/api-overview> |
-|        | <a href="apps/dingtalk/api-docs.md"><img src="https://a.slack-edge.com/e6a93c1/img/icons/favicon-32.png" width="30" ></a> | Slack | | <https://docs.slack.dev/> |
-|        | <a href=""><img src="https://p1-hera.feishucdn.com/tos-cn-i-jbbdkfciu3/1ec7129d900e442d8501d810efdaa369~tplv-jbbdkfciu3-image:0:0.image" width="30" ></a> | FeiShu | | <https://open.feishu.cn/document/> |
-|        | <a href="apps/dingtalk/api-docs.md"><img src="https://flomoapp.com/images/logo-192x192.png" width="30" ></a> | Flomo | | <https://help.flomoapp.com/advance/api.html> |
-|        | <a href="https://www.notion.com/"><img src="https://www.notion.com/front-static/favicon.ico" width="30" ></a> | Notion | | <https://developers.notion.com/reference/intro> |
+| 办公 | <a href="https://www.yuque.com/yuque/developer/openapi"><img src="https://mdn.alipayobjects.com/huamei_0prmtq/afts/img/A*vMxOQIh4KBMAAAAAAAAAAAAADvuFAQ/original" width="30" ></a> | YuQue | | ![](https://img.shields.io/badge/%E2%96%B6-Run%20in%20WebUI-blue?style=for-the-badge) |
+|        | <a href="https://open.dingtalk.com/document/development/api-overview"><img src="https://img.alicdn.com/imgextra/i3/O1CN017PqYP51OX3bSJGxQY_!!6000000001714-2-tps-200-200.png" width="30" ></a> | DingTalk | | ![](https://img.shields.io/badge/%E2%96%B6-Run%20in%20WebUI-blue?style=for-the-badge) |
+|        | <a href="https://docs.slack.dev"><img src="https://a.slack-edge.com/e6a93c1/img/icons/favicon-32.png" width="30" ></a> | Slack | | ![](https://img.shields.io/badge/%E2%96%B6-Run%20in%20WebUI-blue?style=for-the-badge) |
+|        | <a href="https://open.feishu.cn/document"><img src="https://p1-hera.feishucdn.com/tos-cn-i-jbbdkfciu3/1ec7129d900e442d8501d810efdaa369~tplv-jbbdkfciu3-image:0:0.image" width="30" ></a> | FeiShu | | ![](https://img.shields.io/badge/%E2%96%B6-Run%20in%20WebUI-blue?style=for-the-badge) |
+|        | <a href="https://help.flomoapp.com/advance/api.html"><img src="https://flomoapp.com/images/logo-192x192.png" width="30" ></a> | Flomo | | ![](https://img.shields.io/badge/%E2%96%B6-Run%20in%20WebUI-blue?style=for-the-badge) |
+|        | <a href="https://developers.notion.com/reference/intro"><img src="https://www.notion.com/front-static/favicon.ico" width="30" ></a> | Notion | | ![](https://img.shields.io/badge/%E2%96%B6-Run%20in%20WebUI-blue?style=for-the-badge) |
 |        | <a href="https://obsidian.md/"><img src="https://obsidian.md/favicon.ico" width="30" ></a> | Obsidian | |
 |        | <a href="https://obsidian.md/"><img src="https://st1.zoom.us/zoom.ico" width="30" ></a> | Zoom | |
 | 自媒体 | <a href="apps/douyin/api-docs.md"><img src="https://lf-douyin-pc-web.douyinstatic.com/obj/douyin-pc-web/2025_0313_logo.png" width="35" ></a> | DouYin | |
